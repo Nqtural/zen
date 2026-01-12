@@ -1,3 +1,19 @@
+/* ==========================================================
+   Theme: Kuromi
+   Designer: ribrik
+
+   Sources & Credits:
+   - CSS structure, layout refinements, and styling assistance
+     were developed with the help of ChatGPT (OpenAI).
+   - All imagery (background, logo, UI elements) was generated
+     with the assistance of ChatGPT / OpenAI image tools and
+     curated by the designer.
+   - Final composition, adjustments, and integration performed
+     by the designer.
+
+   HTML remains unmodified, per CSS Zen Garden rules.
+   ========================================================== */
+
 html, body{
   background-color: #0c0a10;
   background-image: url(images/bg.png);
